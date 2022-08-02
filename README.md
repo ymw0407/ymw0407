@@ -12,7 +12,7 @@
  
 </div>
 
-## &nbsp;&nbsp;&nbsp;소속
+## &nbsp;소속
 
 <div align=center>
 
