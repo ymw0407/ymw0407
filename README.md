@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?style=for-thehttps://github.com/WebOS-KOSS-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -32,7 +32,7 @@
   
 <h2>Preparing...</h2>
 <p>제 20회 임베디드 소프트웨어 경진대회 webOS 부문</p>
-<p>팀 방파제 @WebOS-KOSS</p>
+<p>팀 <a href="https://github.com/WebOS-KOSS">방파제</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=200&section=footer)
   
