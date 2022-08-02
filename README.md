@@ -12,7 +12,7 @@
  
 </div>
 
-## 소속
+## &nbsp;&nbsp;&nbsp;소속
 
 <div align=center>
 
