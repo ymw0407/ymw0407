@@ -13,7 +13,7 @@
  
 </div>
 
-## &nbsp;소속
+<h3 align=center>tudying 📚</h3>
 
 <div align=center>
 
