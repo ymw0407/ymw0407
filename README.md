@@ -36,7 +36,7 @@
 
 ![image](방파제.jpeg)
 </a>
-<h4>팀 방파제<h4>
+<h3>팀 방파제<h3>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=200&section=footer)
   
