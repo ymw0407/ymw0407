@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinWoo&animation=fadeIn&fontAlign=80&fontAlignY=40&color=gradient)
 
-| ![Min Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymw0407&theme=buefy&show_icons=true) | <a href="https://github.com/ymw0407"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymw0407&layout=compact&theme=buefy&hide_border=true"/></a> |
+| ![Min Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymw0407&theme=buefy&show_icons=true&hide_border=true) | <a href="https://github.com/ymw0407"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymw0407&layout=compact&theme=buefy&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 <br/>
