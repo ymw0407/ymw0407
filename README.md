@@ -10,14 +10,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun1211)](https://solved.ac/yun1211/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yun1211&theme=dark)
 
- 
-</div>
 
-<h3 align=center>☕ Studying ☕</h3>
+<h3>☕ Studying ☕</h3>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label="/>
 
-
-<div align=center>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=200&section=footer)
   
