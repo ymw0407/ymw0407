@@ -2,7 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinWoo&animation=fadeIn&fontAlign=80&fontAlignY=40&color=gradient)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymw0407&layout=compact&theme=merco)](https://github.com/ymw0407)
+| <a href="https://github.com/ymw0407"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ymw0407&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ymw0407"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymw0407&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br/>
 
