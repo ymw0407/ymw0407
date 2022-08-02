@@ -32,7 +32,9 @@
   
 <h2>Preparing...</h2>
 <p>제 20회 임베디드 소프트웨어 경진대회 webOS 부문</p>
-<a href="https://github.com/WebOS-KOSS" style="color:black">![image](방파제.jpeg)</a>
+<a href="https://github.com/WebOS-KOSS" style="color:black">
+![image](방파제.jpeg)
+</a>
 <p>팀 방파제</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=200&section=footer)
