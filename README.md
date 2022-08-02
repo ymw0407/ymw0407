@@ -13,7 +13,7 @@
  
 </div>
 
-<h3 align=center>Studying 📚</h3>
+<h3 align=center>📚 Studying 📚</h3>
 
 <div align=center>
 
