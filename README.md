@@ -35,7 +35,6 @@
 <a href="https://github.com/WebOS-KOSS" style="color:black">
 
 ![image](방파제.jpeg)
-
 </a>
 <h4>팀 방파제<h4>
 
