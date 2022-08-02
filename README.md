@@ -11,7 +11,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yun1211&theme=dark)
 
 
-<h3>☕ Studying ☕</h3>
+<h2>☕ Studying ☕</h2>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label="/>
 
 
