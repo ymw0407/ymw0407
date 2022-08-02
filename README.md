@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=300&section=header&text=Min%20Woo&fontSize=60&animation=fadeIn&fontAlignY=38)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinWoo&fontAlign=80&fontAlignY=40&color=gradient)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=200&section=footer)
