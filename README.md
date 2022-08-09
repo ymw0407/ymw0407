@@ -38,8 +38,8 @@
 <h2>소속</h2>
 <a href="https://github.com/kmu-koss">
 <img src="https://avatars.githubusercontent.com/kmu-koss" width="100px;" alt=""/>
-</a>
 <h3>KOSS</h3>
+</a>
 <br/>
 
 <h2>Preparing...</h2>
