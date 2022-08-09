@@ -40,6 +40,7 @@
 <img src="https://avatars.githubusercontent.com/kmu-koss" width="100px;" alt=""/>
 </a>
 <h3>KOSS</h3>
+<br/>
 
 <h2>Preparing...</h2>
 <h3>제 20회 임베디드 소프트웨어 경진대회 webOS 부문</h3>
