@@ -34,7 +34,13 @@
 </p>
 
 <br/>
-  
+
+<h2>소속</h2>
+<a href="https://github.com/kmu-koss">
+<img src="https://avatars.githubusercontent.com/kmu-koss" width="100px;" alt=""/>
+</a>
+<h3>KOSS</h3>
+
 <h2>Preparing...</h2>
 <h3>제 20회 임베디드 소프트웨어 경진대회 webOS 부문</h3>
 <a href="https://github.com/WebOS-KOSS" style="color:black">
