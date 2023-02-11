@@ -87,7 +87,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white""></a>
 </p>
-   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun1211)](https://solved.ac/yun1211/)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=yun1211&theme=dark)](https://solved.ac/yun1211/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ymw0407&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun1211)](https://solved.ac/yun1211/)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=yun1211&theme=dark)](https://solved.ac/yun1211/)
