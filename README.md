@@ -60,6 +60,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 <a href="https://velog.io/@ymw0407"><img alt="Badge" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <img alt="Badge" src ="https://img.shields.io/badge/yunminwo1211@kookmin.ac.kr-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 <a href="https://www.instagram.com/ymw0407/"><img alt="Badge" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<br>
 
 ### ⭐ My Stat
 <p>
