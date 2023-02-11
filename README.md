@@ -1,5 +1,7 @@
-### 👋🏻 Hi there! <br>
+## 👋🏻 Hi there! <br>
+![profile image](./profile.jpg) <br>
 I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin University__. <br>
+<br>
 
 ### 💡 Career
 🎓 2022.03.01\~0000.00.00 <a href="https://cs.kookmin.ac.kr/">Kookmin Univ. Department of Software</a> <br>
@@ -52,6 +54,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
  - Organization : <a href="https://www.eswcontest.or.kr/">The World Embedded Software Contest 2022</a>
  - Location : COEX Hall B
  - Period : 2022.12.07~2022.12.09
+<br>
 
 ### 📱 Blog & SNS
 <a href="https://velog.io/@ymw0407"><img alt="Badge" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
