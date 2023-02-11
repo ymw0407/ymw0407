@@ -1,5 +1,5 @@
 ## 👋🏻 Hi there! <br>
-![profile image](./profile.jpg) <br>
+<img src="./profile.jpg" style="width:400px"> <br>
 I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin University__. <br>
 <br>
 
