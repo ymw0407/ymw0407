@@ -1,5 +1,6 @@
-## 👋🏻 Hi there! <br>
+## Yun MinWoo's GitHub  <br>
 <img src="./profile.jpg" style="width:400px"> <br>
+👋🏻 Hi there!
 I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin University__. <br>
 <br>
 
