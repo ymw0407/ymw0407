@@ -54,7 +54,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
  - Project : <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013">Home++ WallPad Platform with webOS</a>
  - Organization : <a href="https://www.eswcontest.or.kr/">The World Embedded Software Contest 2022</a>
  - Location : COEX Hall B
- - Period : 2022.12.07~2022.12.09 <br><br>
+ - Period : 2022.12.07~2022.12.09 <br>
  <img src="./exhibition1.jpg" style="width:400px">
 <br>
 
