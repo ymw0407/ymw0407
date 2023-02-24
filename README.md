@@ -15,7 +15,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
  - Team : 방파제
  - Prize : 일반 부문 대상(산업통상자원부 장관상)
  - Organization : <a href="https://www.eswcontest.or.kr/">The World Embedded Software Contest 2022</a>
- - Sector : <a href="https://www.webosose.org/">webOS</a>(SponsoBadge by LG Electronics)
+ - Sector : <a href="https://www.webosose.org/">webOS</a>(Sponsored by LG Electronics)
 <br>
 
 ### 💻 Project
