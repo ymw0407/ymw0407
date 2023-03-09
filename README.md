@@ -21,7 +21,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 ### 💻 Project
 📺 2022.05.16~2022.12.15 <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013">Home++ WallPad Platform wit webOS</a>
  - Role : PM & Server & Service & Frontend & Hardware & Network
- - Tech : Node.js & React.js & Express.js & Docker & AWS EC2 & MongoDB & Arduino & Blender(3D Printing) & Circuit & Raspberry Pi & webOS service(LS2 API)
+ - Tech : Node.js & React.js & Express.js & Docker & AWS EC2 & MongoDB & Arduino & Blender(3D Printing) & Circuit & Raspberry Pi & webOS service(LS2 API) & Shell Script & Ubuntu OS
  - Team : 방파제
  - Organization : <a href="https://www.eswcontest.or.kr/">The World Embedded Software Contest 2022</a>
 
