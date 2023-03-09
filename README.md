@@ -19,7 +19,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 <br>
 
 ### 💻 Project
-📺 2022.05.16~2022.12.15 <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013">Home++ WallPad Platform wit webOS</a>
+📺 2022.05.16~2022.12.15 <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013">Home++ WallPad Platform with webOS</a>
  - Role : PM & Server & Service & Frontend & Hardware & Network
  - Tech : Node.js & React.js & Express.js & Docker & AWS EC2 & MongoDB & Arduino & Blender(3D Printing) & Circuit & Raspberry Pi & webOS service(LS2 API) & Shell Script & Ubuntu OS
  - Team : 방파제
@@ -31,6 +31,15 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
  - Team : F7W8
  - Organization : COKOTHON(Hackathon)
 <br>
+
+### 🧸 Toy Project
+💬 2023.03.09~2023.03.10 <a href="https://github.com/ymw0407/">동아리원 합격 발표를 위한 LMS 대량 발송 API 및 CSV 리딩 프로그램</a>
+ - Role : Backend
+ - Tech : Simple & Easy Notification Service(Naver Cloud Platform) API & Python & Node.js & Express.js
+ - Team : Alone
+ - Organization : KOSS(KookminUniv. OpenSource Software Society)
+<br>
+
 
 ### ✏️ Study & Peer Learning
 ⚙️ 2022.03.17~2022.06.22 <a href="https://github.com/kmu-koss/22_iot_study">IoT Study</a>
