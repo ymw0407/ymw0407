@@ -2,7 +2,8 @@
 <img src="./profile.jpg" style="width:400px"> <br>
 👋🏻 Hi there!
 I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin University__. <br>
-<br>
+- 안녕하세요! __GitHub를 활용한 협업__ 에 관심이 많고 __공부한 것을 활용하기 좋아하는__ 주니어 개발자입니다.
+<br><br>
 
 ### 💡 Career
 🎓 2022.03.01\~0000.00.00 <a href="https://cs.kookmin.ac.kr/">Kookmin Univ. Department of Software</a> <br>
