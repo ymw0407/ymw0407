@@ -55,7 +55,8 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 📶 2023.03.01~2023.00.00 BLE Beacon을 활용한 실내 Mapping API
  - Team : Alone
  - Subject : 가격을 고려하여 20미터까지의 거리를 1m 이내의 오차로 Mapping에 성공한다.
- - Goal : 실제로 결혼식장 통합제어 시스템과 연동하여 
+ - Goal : 실제로 결혼식장 통합제어 시스템과 연동하여 상용화해본다.
+<br>
 
 ### ✏️ Study & Peer Learning
 ⚙️ 2022.03.17~2022.06.22 <a href="https://github.com/kmu-koss/22_iot_study">IoT Study</a>
