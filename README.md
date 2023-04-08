@@ -41,6 +41,21 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
  - Organization : KOSS(KookminUniv. OpenSource Software Society)
 <br>
 
+### ⛳ Ongoing Project
+☀️ 2023.02.28~2023.00.00 <a href="https://www.notion.so/SK-Sunny-84775a636cd044d4842b6132e5b421b2">SK-Sunny Project</a>
+ - Team : 또이오티
+ - Subject : 휠체어 이동정보 제공 프로젝트 (사용성이 강화 된 App 형태로 구현)
+ - Goal : Capstone Design Exhibition 참가
+
+⌚ 2023.03.06~2023.00.00 <a href="https://www.notion.so/958a2687aa80433892dbfe08144ad725">wearOS를 활용한 건강 대결 앱</a>
+ - Team : 또이오티
+ - Subject : wearOS와 AOS 기반의 운동 경쟁 앱을 제작하여 사용자들이 운동을 보다 재밌게 할 수 있도록 한다.
+ - Goal : 2023 공개SW 개발자대회 참가
+ 
+📶 2023.03.01~2023.00.00 BLE Beacon을 활용한 실내 Mapping API
+ - Team : Alone
+ - Subject : 가격을 고려하여 20미터까지의 거리를 1m 이내의 오차로 Mapping에 성공한다.
+ - Goal : 실제로 결혼식장 통합제어 시스템과 연동하여 
 
 ### ✏️ Study & Peer Learning
 ⚙️ 2022.03.17~2022.06.22 <a href="https://github.com/kmu-koss/22_iot_study">IoT Study</a>
@@ -55,8 +70,11 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 🏫 2023.01.09~2023.01.12 <a href="https://github.com/ymw0407/YongMoon-Voluntary">YongMoon High School SW Education Volunteer</a>(Mentor) <br>
  - Teach : HTML & CSS & JavaScript
 
-🌐 2023.01.08~0000.00.00 <a href="https://github.com/ymw0407/Backend-study">Backend Study</a>(Leader) <br>
+🌐 2023.01.08~2023.03.01 <a href="https://github.com/ymw0407/Backend-study">Backend Study</a>(Leader) <br>
  - Learn : Node.js & Express.js & Axios & GraphQL & Docker & Nest.js & TypeORM
+ 
+🤖 2023.04.04~2023.00.00 <a href="https://github.com/kmu-koss/2023-1_IoT_Study">IoT Study</a>(Mentor) <br>
+- Teach : Node.js & Express.js & MongoDB & Arduino & Raspberr Pi & Sensor & GitHub
 <br>
 
 ### ✨ Exhibition
