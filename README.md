@@ -96,6 +96,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 ### ⭐ My Stat
 <p>
 <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?style=flat&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/></a>
+<a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/static/v1?style=flate&message=C&color=222222&logo=C&logoColor=A8B9CC&label="/></a>
 <a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"></a>
 <br/>
@@ -103,9 +104,14 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://img.shields.io/static/v1?style=flat&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/></a>
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://img.shields.io/static/v1?style=flat&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/></a>
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/></a>
-<a href="https://ko.reactjs.org/"><img src="https://img.shields.io/static/v1?style=flat&message=React&color=222222&logo=React&logoColor=61DAFB&label="/></a>
+<br/>
 <a href="https://nodejs.org/ko/"><img src="https://img.shields.io/static/v1?style=flat&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/></a>
+<a href="https://ko.reactjs.org/"><img src="https://img.shields.io/static/v1?style=flat&message=React&color=222222&logo=React&logoColor=61DAFB&label="/></a>
 <a href="https://expressjs.com/ko/"><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"></a>
+<a href="https://nestjs.com/"><img src="https://img.shields.io/static/v1?style=flate&message=NextJS&color=000000&logo=NestJS&logoColor=E0234E&label="/></a>
+<br/>
+<a href="https://axios-http.com/kr/"><img src="https://img.shields.io/static/v1?style=flat&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label="/></a>
+<a href="https://graphql.org/"><img src="https://img.shields.io/static/v1?style=flat&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label="/></a>
 <br/>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>
