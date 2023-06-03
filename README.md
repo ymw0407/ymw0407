@@ -31,6 +31,12 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
  - Tech : Nest.js, AWS EC2
  - Team : F7W8
  - Organization : COKOTHON(Hackathon)
+
+☀️ 2023.02.28~2023.06.02 <a href="https://github.com/AgainIoT/Everyones-Transfer_Main">모두의 환승(교통 약자 환승 지도 데이터 수집 솔루션)</a>
+ - Role : PM & Server & DB
+ - Tech : Node.js, Express.js, AWS EC2, MongoDB
+ - Team : <a href="https://www.notion.so/958a2687aa80433892dbfe08144ad725">또이오티</a>
+ - Organizatiopn : <a href="https://www.besunny.com/main.do">SK-Sunny capstone</a>
 <br>
 
 ### 🧸 Toy Project
@@ -42,20 +48,10 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 <br>
 
 ### ⛳ Ongoing Project
-☀️ 2023.02.28~2023.00.00 <a href="https://www.notion.so/SK-Sunny-84775a636cd044d4842b6132e5b421b2">SK-Sunny Project</a>
- - Team : 또이오티
- - Subject : 휠체어 이동정보 제공 프로젝트 (사용성이 강화 된 App 형태로 구현)
- - Goal : Capstone Design Exhibition 참가
-
 ⌚ 2023.03.06~2023.00.00 <a href="https://www.notion.so/958a2687aa80433892dbfe08144ad725">wearOS를 활용한 건강 대결 앱</a>
  - Team : 또이오티
  - Subject : wearOS와 AOS 기반의 운동 경쟁 앱을 제작하여 사용자들이 운동을 보다 재밌게 할 수 있도록 한다.
  - Goal : 2023 공개SW 개발자대회 참가
- 
-📶 2023.03.01~2023.00.00 BLE Beacon을 활용한 실내 Mapping API
- - Team : Alone
- - Subject : 가격을 고려하여 20미터까지의 거리를 1m 이내의 오차로 Mapping에 성공한다.
- - Goal : 실제로 결혼식장 통합제어 시스템과 연동하여 상용화해본다.
 <br>
 
 ### ✏️ Study & Peer Learning
@@ -85,6 +81,13 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
  - Location : COEX Hall B
  - Period : 2022.12.07~2022.12.09 <br>
  <img src="./exhibition1.jpg" style="width:400px">
+ 
+ 📢 2022.12.07~2022.12.09 <a href="https://final.capstone.cs.kookmin.ac.kr/">2023 SW 다학제간캡스톤디자인 최종발표회(산학 참여)</a> 
+ - Project : <a href="https://github.com/AgainIoT/Everyones-Transfer_Main">모두의 환승(교통 약자 환승 지도 데이터 수집 솔루션)</a>
+ - Organization : <a href="https://cs.kookmin.ac.kr/">국민대학교 소프트웨어융합대학</a>
+ - Location : 국민대학교 미래관
+ - Period : 2023.06.03~2023.06.03 <br>
+ <img src="./exhibition2.jpg" style="width:400px">
 <br>
 
 ### 📱 Blog & SNS
