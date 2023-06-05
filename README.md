@@ -11,7 +11,7 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 <br>
 
 ### 🏆 Prize
-🥇 2022.05.16~2022.12.15 __Ministry of Trade, Industry and Energy__ Prize - __1st Prize__ in General Sector(일반 부문 대상) <br>
+🥇 2022.05.16~2022.12.15 __Ministry of Trade, Industry and Energy__ Prize - __1st Prize__ in General Sector(전부문 대상) <br>
  - Project : <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013">Home++ WallPad Platform</a>
  - Team : 방파제
  - Prize : 일반 부문 대상(산업통상자원부 장관상)
