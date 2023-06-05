@@ -82,10 +82,10 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
  - Period : 2022.12.07~2022.12.09 <br>
  <img src="./exhibition1.jpg" style="width:400px">
  
- 📢 2022.12.07~2022.12.09 <a href="https://final.capstone.cs.kookmin.ac.kr/">2023 SW 다학제간캡스톤디자인 최종발표회(산학 참여)</a> 
+ 📢 2023.06.03~2023.06.03 <a href="https://final.capstone.cs.kookmin.ac.kr/">2023 SW 다학제간캡스톤디자인 최종발표회(산학 참여)</a> 
  - Project : <a href="https://github.com/AgainIoT/Everyones-Transfer_Main">모두의 환승(교통 약자 환승 지도 데이터 수집 솔루션)</a>
  - Organization : <a href="https://cs.kookmin.ac.kr/">국민대학교 소프트웨어융합대학</a>
- - Location : 국민대학교 미래관
+ - Location : 국민대학교 미래관 4층
  - Period : 2023.06.03~2023.06.03 <br>
  <img src="./exhibition2.jpg" style="width:400px">
 <br>
