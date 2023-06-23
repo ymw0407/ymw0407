@@ -40,11 +40,16 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 <br>
 
 ### 🧸 Toy Project
-💬 2023.03.09~2023.03.10 <a href="https://github.com/ymw0407/">동아리원 합격 발표를 위한 LMS 대량 발송 API 및 CSV 리딩 프로그램</a>
+💬 2023.03.09~2023.03.10 <a href="https://github.com/kmu-koss/SendSMS">동아리원 합격 발표를 위한 LMS 대량 발송 API 및 CSV 리딩 프로그램</a>
  - Role : Backend
  - Tech : Simple & Easy Notification Service(Naver Cloud Platform) API & Python & Node.js & Express.js
  - Team : Alone
  - Organization : KOSS(KookminUniv. OpenSource Software Society)
+
+🐍 2023.06.15~2023.06.17 <a href="https://github.com/ymw0407/C-Snake-main">C Snake Game</a>
+ - Tech : C++
+ - Team : <a href="https://github.com/ymw0407/C-Snake-main">민우-신지-동현</a>
+ - Organization : C++ Programming lecture
 <br>
 
 ### ⛳ Ongoing Project
