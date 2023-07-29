@@ -106,7 +106,8 @@ I am a __Junior Developer__ studying at __🎓 Department of Software at Kookmin
 <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?style=flat&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/></a>
 <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/static/v1?style=flate&message=C&color=222222&logo=C&logoColor=A8B9CC&label="/></a>
-<a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"></a>
+ <a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/Go-00599C?style=flat&logo=Go&logoColor=white&color=00ADD8"></a>
 <br/>
 <a href="https://www.w3.org/"><img src="https://img.shields.io/static/v1?style=flat&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/></a>
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://img.shields.io/static/v1?style=flat&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/></a>
