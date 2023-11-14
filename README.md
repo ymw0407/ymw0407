@@ -12,7 +12,7 @@ I am a **Junior Developer** studying at **🎓 Department of Software at Kookmin
 
 🎓 2022.03.01\~0000.00.00 <a href="https://cs.kookmin.ac.kr/">Kookmin Univ. Department of Software</a> <br>
 📖 2022.03.17\~0000.00.00 <a href="https://github.com/kmu-koss">KOSS</a>(KookminUniv. OpenSource Software Society) <br>
-💻 2022.06.22\~0000.00.00 <a href="https://concat.kr/">CONAT Inc.</a> (Backend InternShip -> Intern) <br>
+💻 2022.06.22\~0000.00.00 <a href="https://concat.kr/">CONCAT Inc.</a> (Backend InternShip -> Intern) <br>
 <br>
 
 ### 🏆 Prize
