@@ -10,9 +10,9 @@ I am a **Junior Developer** studying at **🎓 Department of Software at Kookmin
 
 ### 💡 Career
 
-🎓 2022.03.01~0000.00.00 <a href="https://cs.kookmin.ac.kr/">Kookmin Univ. Department of Software</a> <br>
-📖 2022.03.17~0000.00.00 <a href="https://github.com/kmu-koss">KOSS</a>(KookminUniv. OpenSource Software Society) <br>
-💻 2022.06.22~0000.00.00 <a href="https://concat.kr/">CONAT Inc.</a> (Backend InternShip -> Intern) <br>
+🎓 2022.03.01\~0000.00.00 <a href="https://cs.kookmin.ac.kr/">Kookmin Univ. Department of Software</a> <br>
+📖 2022.03.17\~0000.00.00 <a href="https://github.com/kmu-koss">KOSS</a>(KookminUniv. OpenSource Software Society) <br>
+💻 2022.06.22\~0000.00.00 <a href="https://concat.kr/">CONAT Inc.</a> (Backend InternShip -> Intern) <br>
 <br>
 
 ### 🏆 Prize
@@ -36,6 +36,8 @@ I am a **Junior Developer** studying at **🎓 Department of Software at Kookmin
 - Organization : 산업통상자원부(주최), KESSIA-임베디드소프트웨어·시스템산업협회(주관)
 - Sector : <a href="https://www.webosose.org/">webOS</a> 부문 (LG전자 후원)
   <br>
+
+<br>
 
 ### 💻 Project
 
@@ -75,16 +77,9 @@ I am a **Junior Developer** studying at **🎓 Department of Software at Kookmin
 - Team : 방파제
 - Organization : <a href="https://www.eswcontest.or.kr/">The World Embedded Software Contest 2022</a>
 
+<br>
+
 ### 🧸 Toy Project
-
-💬 2023.03.09~2023.03.10 <a href="https://github.com/kmu-koss/SendSMS">동아리원 합격 발표를 위한 LMS 대량 발송 API 및 CSV 리딩 프로그램</a>
-
-> It is designed to read the list of successful applicants in CSV files and to send LMSs in large quantities using NCP's Simple & Easy Notification Service.
-
-- Role : Backend
-- Tech : Simple & Easy Notification Service(Naver Cloud Platform) API & Python & Node.js & Express.js
-- Team : Alone
-- Organization : KOSS(KookminUniv. OpenSource Software Society)
 
 🐍 2023.06.15~2023.06.17 <a href="https://github.com/ymw0407/C-Snake-main">C Snake Game</a>
 
@@ -95,9 +90,23 @@ I am a **Junior Developer** studying at **🎓 Department of Software at Kookmin
 - Organization : C++ Programming lecture
   <br>
 
+💬 2023.03.09~2023.03.10 <a href="https://github.com/kmu-koss/SendSMS">동아리원 합격 발표를 위한 LMS 대량 발송 API 및 CSV 리딩 프로그램</a>
+
+> It is designed to read the list of successful applicants in CSV files and to send LMSs in large quantities using NCP's Simple & Easy Notification Service.
+
+- Role : Backend
+- Tech : Simple & Easy Notification Service(Naver Cloud Platform) API & Python & Node.js & Express.js
+- Team : Alone
+- Organization : KOSS(KookminUniv. OpenSource Software Society)
+  <br>
+
+<br>
+
 ### ⛳ Ongoing Project
 
 _There are no projects scheduled yet._
+
+<br>
 
 ### ✏️ Study & Peer Learning
 
@@ -125,6 +134,8 @@ _There are no projects scheduled yet._
 ⚙️ 2022.03.17~2022.06.22 <a href="https://github.com/kmu-koss/22_iot_study">IoT Study</a>
 
 - Learn : Node.js & Express.js & MongoDB & Arduino & Raspberry Pi & AOS
+
+<br>
 
 ### ✨ Exhibition
 
