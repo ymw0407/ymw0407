@@ -156,6 +156,8 @@ _There are no projects scheduled yet._
 - Period : 2022.12.07~2022.12.09 <br>
   <img src="./exhibition1.jpg" style="width:400px">
 
+<br>
+
 ### 📱 Blog & SNS
 
 <a href="https://velog.io/@ymw0407"><img alt="Badge" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
