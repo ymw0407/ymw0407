@@ -6,6 +6,7 @@
 I am a **Junior Developer** studying at **🎓 Department of Software at Kookmin University**. <br>
 
 - 안녕하세요! **GitHub를 활용한 협업** 에 관심이 많고 **공부한 것을 활용하기 좋아하는** 주니어 개발자, **윤민우** 입니다.
+- [이력서](https://career.programmers.co.kr/pr/yunminwoo) 참고해주세요!
   <br><br>
 
 ### 💡 Career
