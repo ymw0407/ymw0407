@@ -1,12 +1,14 @@
 ## Yun MinWoo's GitHub
 
-<img src="./profile.jpg" style="width:400px"> <br>
-
 👋🏻 Hi there!
-I am a **Junior Developer** studying at **🎓 Department of Software at Kookmin University**. <br>
+I am a **Backend Developer** who interested in OpenSource! <br>
+안녕하세요! **OpenSource** 분야에 관심이 많은, Backend Developer 윤민우라고 합니다.
 
-- 안녕하세요! **GitHub를 활용한 협업** 에 관심이 많고 **공부한 것을 활용하기 좋아하는** 주니어 개발자, **윤민우** 입니다.
-- [이력서](https://career.programmers.co.kr/pr/yunminwoo) 참고해주세요!
+Contact:
+
+- [Email](mailto:yunminwo1211@gmail.com)
+- [CV (Korean)](https://career.programmers.co.kr/pr/yunminwoo)
+- [Certificate](./certificates/Certificate.md)
   <br><br>
 
 ### 💡 Career
