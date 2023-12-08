@@ -44,7 +44,7 @@ Contact:
 
 ### 💻 Project
 
-:octocat: 2023.07.05~2023.00.00 <a href="https://github.com/AgainIoT/Open-Set-Go">Open-Set-Go</a>
+:octocat: 2023.06.15~2023.00.00 <a href="https://github.com/AgainIoT/Open-Set-Go">Open-Set-Go</a>
 
 > It is a service that makes it easy and easy to start a complete open source project on GitHub by utilizing the Open Source Project Starter (WEB). I would like to operate it as an open source project.
 
