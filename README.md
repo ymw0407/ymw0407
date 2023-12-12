@@ -1,8 +1,8 @@
 ## Yun MinWoo's GitHub
 
 👋🏻 Hi there!
-I am a **Backend Developer** who interested in OpenSource! <br>
-안녕하세요! **OpenSource** 분야에 관심이 많은, Backend Developer 윤민우라고 합니다.
+I am a **Backend Developer** who interested in **OpenSource**! <br>
+안녕하세요! **OpenSource** 분야에 관심이 많은, **Backend Developer** 윤민우라고 합니다.
 
 Contact:
 
