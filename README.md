@@ -19,6 +19,17 @@ Contact:
 <br>
 
 ### 🏆 Prize
+🏆 2023.09.21~2023.12.22 **2023 한국소프트웨어종합학술대회 (KSC2023) 최우수논문상 - 한국정보과학회 회장상**
+
+- Paper : "오픈소스 운영 진입장벽 완화를 위한 오픈소스 프로젝트 생성 및 운영 관리 서비스"
+- Author : 윤민우, 안채영, 박진우, 이채영, 윤신지, 김지윤, 이민석*
+- Sector : 오픈소스소프트웨어 분야
+- Prize : 최우수논문상 - 한국정보과학회 회장상
+- Contest : <a href="https://www.kiise.or.kr/conference/KSC/2023/">2023 한국소프트웨어종합학술대회 (KSC2023)</a>
+- Organization : 한국정보과학회(KIISE)
+- Project : <a href="https://github.com/AgainIoT/Open-Set-Go">Open-Set-Go</a>
+  <br>
+
 
 🥈 2023.06.15~2023.12.01 **제17회 공개SW 개발자대회 학생부문 은상 - 한국정보과학회 회장상**
 
