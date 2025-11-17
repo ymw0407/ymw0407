@@ -213,4 +213,4 @@ _There are no projects scheduled yet._
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ymw0407&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun1211)](https://solved.ac/yun1211/)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=yun1211&theme=dark)](https://solved.ac/yun1211/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyyymmww)](https://solved.ac/yyyymmww/)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=yyyymmww&theme=dark)](https://solved.ac/yyyymmww/)
