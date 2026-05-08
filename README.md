@@ -17,5 +17,3 @@ Contact:
 💻 2023.12\~2024.03 <a href="https://concat.kr/">CONCAT Inc.</a> - Backend Intern <br>
 ⚓ 2024.03\~2025.12 <a href="https://www.navy.mil.kr/mbshome/mbs/navy/index.do">Republic of Korea Navy, HQ</a> - Software Development Specialist <br>
 <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyyymmww)](https://solved.ac/yyyymmww/)[![mazandi profile](http://mazandi.herokuapp.com/api?handle=yyyymmww&theme=dark)](https://solved.ac/yyyymmww/)
