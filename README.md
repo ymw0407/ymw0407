@@ -14,6 +14,6 @@ Contact:
 🎓 2022.03\~0000.00 <a href="https://cs.kookmin.ac.kr/">Kookmin Univ. Department of Software</a> - Undergraduate <br>
 📖 2022.03\~2023.12 <a href="https://github.com/kmu-koss">KOSS(KookminUniv. OpenSource Software Society)</a> <br>
 💻 2023.06\~2023.08 <a href="https://concat.kr/">CONCAT Inc.</a> - Backend InternShip <br>
-💻 2023.12\~2024.03 <a href="https://concat.kr/">CONCAT Inc.</a> - Backend Intern <br>
-⚓ 2024.03\~2025.12 <a href="https://www.navy.mil.kr/mbshome/mbs/navy/index.do">Republic of Korea Navy, HQ</a> - Software Development Specialist <br>
+💻 2023.12\~2024.02 <a href="https://concat.kr/">CONCAT Inc.</a> - Backend Intern <br>
+⚓ 2024.04\~2025.12 <a href="https://www.navy.mil.kr/mbshome/mbs/navy/index.do">Republic of Korea Navy, HQ</a> - Software Development Specialist <br>
 <br>
